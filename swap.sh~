@@ -1,0 +1,10 @@
+echo enter value for a:
+read a
+echo enter value for b:
+read b
+echo "values of variables before swapping a=$a and b=$b"
+echo c=$a
+echo a=$b
+echo b=$a
+echo "values of variables after swapping a=$a and b=$b"
+
